@@ -1,17 +1,28 @@
 {
-  "version" : "1.1.0",
+  "version": "1.1.2",
   "list": [
     {
       "language": "0",
       "news": [
-       {
-          "Time": "01.22",
-          "BookMark": "更新預告",
-          "Title": "1/27 更新內容預告",
-          "Info": "<size=40><b>親愛的魔王大人：</b>\n《天下布魔》將於1/27(三) 11:20 (UTC+8) 開始更新，本次更新為<color=#ff0000>不停機維護</color>\n待更新完成後，需請魔王大人重新啟動遊戲即可下載更新內容\n\n<color=#ff0000>♥更新內容♥</color>\n1.開放主線第十章－來去陰陽寮住一晚\n2.新增主線第十章相關任務及通關禮包\n3.新增「魔王撒旦」限時必得召喚\n<size=35>（1/27 16:00～2/10 14:00(UTC+8)）</size>\n4.每日政務「戰爭演習」、「商業經營」、\n「調教道具開發中」新增關卡\n\n<b>天下布魔團隊全員感謝您的愛護與支持！</b></size>"
+        {
+          "Time": "02.04",
+          "BookMark": "平台公告",
+          "Title": "iOS版本上線，就在EROLABS！",
+          "Info": "<size=40><b>親愛的魔王大人：</b>\n期待已久的iOS版本已經在<color=#ff0000>EROLABS平台</color>上市！\n魔王現在可以前往EROLABS網站、抑或於天下布魔官網，下載天下布魔iOS版本。\nPS：EROLABS和工口.R18為兩個不同平台，帳號不互通，請魔王下載時多加留意。\n\n♥前往<a href=https://www.erolabs.com/game.html?id=1>EROLABS</a>\n\n<b>天下布魔團隊感謝您的愛護與支持！</b></size>"
         },
-
-         {
+        {
+          "Time": "02.03",
+          "BookMark": "重要通知",
+          "Title": "重要通知",
+          "Info": "<size=40><b>親愛的魔王大人：</b>\n今日我們收到部份玩家的來信\n反映無法透過GASH點數在工口/EROLABS平臺購買HoneyP/ECoin的問題，我方已緊急連絡平臺了解狀況。\n平臺方證實目前GASH點數的轉換存在某些問題，因此關閉了GASH點數購買平臺點數的服務。\n開發團隊理解玩家的困擾，也向平臺方強烈反映了玩家的意見與需求，但最終的決定權仍屬於平臺方。\n再次提醒各位玩家，工口平臺及EROLABS平臺目前均無法使用GASH點數\n請想要購買HoneyP/ECoin的玩家使用其他金流服務。\n\n<b>感謝各位對天下布魔的支持，我們將持續在力所能及的範圍內為玩家提供最好的遊戲體驗。</b></size>"
+        },
+        {
+          "Time": "02.03",
+          "BookMark": "更新完成",
+          "Title": "2/3 更新完成通知",
+          "Info": "<size=40><b>親愛的魔王大人：</b>\n《天下布魔》已經更新完成囉！\n請魔王大人重新覆蓋安裝新的版本即可體驗最新內容。\n下載新版本之前，也不要忘記<color=#ff0000>綁定帳號</color>哦！\n\n<color=#ff0000>♥改版內容♥</color>\n1.EROLABS版本語言設定追加韓國語\n2.追加協會任務完成提示\n3.部分細微錯誤修正優化\n<color=#ff0000>♥更新內容♥</color>\n1. 新增情人節限定活動及相關任務：\n－外傳：超時空偶像－黑白諾艾莉✰\n<size=35>（02/03 12:00～02/24 10:00(UTC+8)）</size>\n－魔界偶像大騷動\n<size=35>（02/08 12:00～02/24 10:00(UTC+8)）</size>\n－挑戰：天下第一偶像大會\n<size=35>（02/17 12:00～02/24 10:00(UTC+8)）</size>\n2.新增期間限定角色Pick Up召喚：\n－「偶像．黑白諾艾莉」\n－「偶像．伊布力斯」\n<size=35>（召喚期間：02/03 16:00～02/24 12:00(UTC+8)）</size>\n<size=35><color=#ff0000>※「偶像．伊布力斯」可在活動中累積積分獲得</color></size>\n3.活動登入獎勵：\n－外傳：超時空偶像－黑白諾艾莉✰\n<size=35>（領取時間：02/03 05:00～02/25 04:59(UTC+8)）</size>\n－魔界偶像大騷動\n<size=35>（領取時間：02/08 05:00～02/25 04:59(UTC+8)）</size>\n4.商城新增「偶像．黑白諾艾莉」限定禮包\n<size=35>（販售時間：更新後～03/02 23:59 (UTC+8)）</size>\n\n<b>天下布魔團隊感謝您的愛護與支持！</b></size>"
+        },
+        {
           "Time": "01.20",
           "BookMark": "全球開服",
           "Title": "EROLABS平台正式上線",
@@ -21,12 +32,24 @@
     },
     {
       "language": "1",
-      "news": [        
-	{
-          "Time": "01.22",
-          "BookMark": "更新预告",
-          "Title": "1/27 更新内容预告",
-          "Info": "<size=40><b>亲爱的魔王大人：</b>\n《天下布魔》将于1/27(三) 11:20 (UTC+8) 开始更新，本次更新为<color=#ff0000>不停机维护</color>\n待更新完成后，需请魔王大人重新启动游戏即可下载更新内容\n\n<color=#ff0000>♥更新内容♥</color>\n1.开放主线第十章－来去阴阳寮住一晚\n2.新增主线第十章相关任务及通关礼包\n3.新增「魔王撒旦」限时必得召唤\n<size=35>（1/27 16:00～2/10 14:00(UTC+8)）</size>\n4.每日政务「战争演习」、「商业经营」、\n「调教道具开發中」新增关卡\n\n<b>天下布魔团队全员感谢您的爱护与支持！</b></size>"
+      "news": [
+        {
+          "Time": "02.04",
+          "BookMark": "平台公告",
+          "Title": "iOS版本上线，就在EROLABS！",
+          "Info": "<size=40><b>亲爱的魔王大人：</b>\n期待已久的iOS版本已经在<color=#ff0000>EROLABS平台</color>上市！\n魔王现在可以前往EROLABS网站、抑或于天下布魔官网，下载天下布魔iOS版本。\n\nPS：EROLABS和工口.R18为两个不同平台，帐号不互通，请魔王下载时多加留意。\n\n♥前往<a href=https://www.erolabs.com/game.html?id=1>EROLABS</a>\n\n<b>天下布魔团队感谢您的爱护与支持！</b></size>"
+        },
+        {
+          "Time": "02.03",
+          "BookMark": "重要通知",
+          "Title": "重要通知",
+          "Info": "<size=40><b>亲爱的魔王大人：</b>\n今日我们收到部份玩家的来信\n反映无法透过GASH点数在工口/EROLABS平臺购买HoneyP/ECoin的问题，我方已紧急连络平臺了解状况。\n平臺方证实目前GASH点数的转换存在某些问题，因此关闭了GASH点数购买平臺点数的服务。\n开發团队理解玩家的困扰，也向平臺方强烈反映了玩家的意见与需求，但最终的决定权仍属于平臺方。\n再次提醒各位玩家，工口平臺及EROLABS平臺目前均无法使用GASH点数\n请想要购买HoneyP/ECoin的玩家使用其他金流服务。\n\n<b>感谢各位对天下布魔的支持，我们将持续在力所能及的范围内为玩家提供最好的游戏体验。</b></size>"
+        },
+        {
+          "Time": "02.03",
+          "BookMark": "更新完成",
+          "Title": "2/3 更新完成通知",
+          "Info": "<size=40><b>亲爱的魔王大人：</b>\n《天下布魔》已经更新完成囉！\n请魔王大人重新复盖安装新的版本即可体验最新内容。\n下载新版本之前，也不要忘记<color=#ff0000>绑定帐号</color>哦！\n\n<color=#ff0000>♥改版内容♥</color>\n1.EROLABS版本语言设定追加韩国语\n2.追加协会任务完成提示\n3.部分细微错误修正优化\n<color=#ff0000>♥更新内容♥</color>\n1. 新增情人节限定活动及相关任务：\n－外传：超时空偶像－黑白诺艾莉✰\n<size=35>（02/03 12:00～02/24 10:00(UTC+8)）</size>\n－魔界偶像大骚动\n<size=35>（02/08 12:00～02/24 10:00(UTC+8)）</size>\n－挑战：天下第一偶像大会\n<size=35>（02/17 12:00～02/24 10:00(UTC+8)）</size>\n2.新增期间限定角色Pick Up召唤：\n－「偶像．黑白诺艾莉」\n－「偶像．伊布力斯」\n<size=35>（召唤期间：02/03 16:00～02/24 12:00(UTC+8)）</size>\n<size=35><color=#ff0000>※「偶像．伊布力斯」可在活动中累积积分获得</color></size>\n3.活动登入奖励：\n－外传：超时空偶像－黑白诺艾莉✰\n<size=35>（领取时间：02/03 05:00～02/25 04:59(UTC+8)）</size>\n－魔界偶像大骚动\n<size=35>（领取时间：02/08 05:00～02/25 04:59(UTC+8)）</size>\n4.商城新增「偶像．黑白诺艾莉」限定礼包\n<size=35>（贩售时间：更新后～03/02 23:59 (UTC+8)）</size>\n\n<b>天下布魔团队感谢您的爱护与支持！</b></size>"
         },
         {
           "Time": "01.20",
@@ -39,13 +62,24 @@
     {
       "language": "2",
       "news": [
-              {
-          "Time": "01.22",
-          "BookMark": "Preview",
-          "Title": "1/27 TenkafuMA Update Preview",
-          "Info": "<size=40><b>Almighty Archdemons,</b>\nTenkafuMA will update on 1/27 (Wed.) at 03:00 (UTC), but the server will continue running.\nOnce the update is complete, please restart the game to download new content.\n\n<color=#ff0000>♥Update Content♥</color>\n1. Chapter 10 of the main storyline available - A Night in Onmyoryo\n2. Added chapter 10 related missions and quest clearance bundles\n3. Added limited-time guaranteed Archdemon Satan summon \n<size=35>(Available 1/27 08:00- 2/1006:00 UTC)</size>\n4. Added Daily Mission Quests: \nWar Games, Business Time, and Toy Maker\n\n<b>TenkafuMA thanks you for your love and support!</b></size>"
+        {
+          "Time": "02.04",
+          "BookMark": "Notification",
+          "Title": "iOS version is now available! Only on EROLABS!",
+          "Info": "<size=40><b>Almighty Archdemons,</b>\nthe long-waited iOS version is now available on <color=#ff0000>EROLABS</color>!\nArchdemons may now go to EROLABS or the official website of Tenkafu MA to download the iOS version.\nPlease also note that EROLABS and 工口.R18 are different version and the account system is separate!\n\n♥<a href=https://www.erolabs.com/game.html?id=1>EROLABS</a>\n\n<b>TenkafuMA thanks you for your love and support!</b></size>"
         },
-
+        {
+          "Time": "02.03",
+          "BookMark": "Notification",
+          "Title": "Notification",
+          "Info": "<size=40><b>Greetings Fellow Archdemons:</b>\nWe've received the feedback from players about that players are not able to use GASH Card to purchase Honey P/ECoin in 工口.R18/Erolabs.\nWe've contacted the platform to understand the current situation.\nCurrently, the platforms have confirmed that there may be issues when using GASH Card and they have to shut down the payment method.\nTeam Tenkafu MA understands that it would be inconvenient for players and has informed the platforms about the requests and feedback of players. However, the final decision still belongs to the platforms.\nWe hope to remind players that it's not available to use GASH Card in 工口.R18/Erolabs currently.\nIf you hope to purchase Honey P/ECoin, we recommend you to use other payment methods.\n\n<b>We are grateful for all the support to Tenkafu MA and will continue to do our best to bring the best gaming experience.</b></size>"
+        },
+        {
+          "Time": "02.03",
+          "BookMark": "Update",
+          "Title": "TenkafuMA 2/3 Update Complete",
+          "Info": "<size=40><b>Greetings Fellow Archdemons:</b>\nTenkafuMA has finished updating.\nYou can now update to the latest version and enjoy the new content.\nBefore you download the new version, remember to bind your account!\n\n<color=#ff0000>♥Update♥</color>\n1.EROLABS version now includes Korean.\n2.Notifies you when guild missions have been completed.\n3.Certain small fixes to improve presentation and gameplay.\n<color=#ff0000>♥ New Contentt♥</color>\n1. Brand-new Valentines Day event and related missions:\n- Side Story: Time-Traveling Idol Noel✰\n<size=35>（02/03 12:00～02/24 10:00(UTC+8)）</size>\n- Demon Realm's Top Idol \n<size=35>（02/08 12:00～02/24 10:00(UTC+8)）</size>\n- Limited Challenge: 1st Annual Idol Smackdown!!\n<size=35>（02/17 12:00～02/24 10:00(UTC+8)）</size>\n2. Limited new characters: Idol Noel and Idol Iblis\n3. Idol Noel and Idol Iblis 2x Pick Up.\n<size=35> (02/03 16:00～02/24 12:00 (UTC+8))</size>\n<color=#ff0000><size=35>※ Idol Iblis can be obtained in exchange for special points during the time of the event.</size></color>\n4. New Valentine's-Day log-in rewards\n- Side Story: Time-Traveling Idol: Noel✰\n<size=35> (from02/03 05:00～02/25 04:59 (UTC+8))</size>\n- Demon Realm's Top Idol \n<size=35> (from 02/08 05:00～02/25 04:59 (UTC+8))</size>\n5. New Idol Noel bundle available in the shop\n\n<b>TenkafuMA thanks you for your love and support!</b></size>"
+        },
         {
           "Time": "01.20",
           "BookMark": "Online",
@@ -57,20 +91,53 @@
     {
       "language": "3",
       "news": [
-                    {
-          "Time": "01.22",
-          "BookMark": "更新通知",
-          "Title": "1/27 天下布魔更新について",
-          "Info": "<size=40><b>親愛なる魔王様：</b>\n《天下布魔》は1/27(水) 12:00 (日本時間) に更新を行います。\n今回の更新ではサーバーの停止は行いません。\n更新終了後、魔王様には一度ゲームを再起動していただくと、更新内容がインストールされます。\n\n<color=#ff0000>♥更新内容♥</color>\n1.メインストーリー第10章\n－陰陽寮に泊まろう\n2.メインストーリー第10章関連ミッションとステージクリアギフト\n3.「魔王サタン」期間限定確定召喚\n<size=35>（1/27 17:00~2/10 15:00(日本時間)）</size>\n4.デイリー政務「戦争演習」、「商業経営」、「調教道具開発中」ステージ追加\n\n《天下布魔》への応援ありがとうございます！</size>"
+        {
+          "Time": "02.04",
+          "BookMark": "通知",
+          "Title": "iOS 版 EROLABS で開放！",
+          "Info": "<size=40><b>親愛なる魔王様：</b>\n魔王様、iOS版が<color=#ff0000>EROLABS</color>でリリースしました！\nEROLABS公式ページや天下布魔公式ページで天下布魔iOS 版ダウンロードできます。\n追記：エロ.R18版とEROLABS版が異なるプラットフォームのため、アカウントは共用できません。ご注意ください。\n\n♥<a href=https://www.erolabs.com/game.html?id=1>EROLABS</a>\n\n<b>《天下布魔》への応援ありがとうございます！</b></size>"
         },
-
-            {
+        {
+          "Time": "02.03",
+          "BookMark": "通知",
+          "Title": "通知",
+          "Info": "<size=40><b>親愛なる魔王様：</b>\nプレイヤーからのご連絡によって、現在 GASH ポイントで HoneyP/ECoin を購入できないことを確認して、プラットフォームに連絡を取りました。\nGASH ポイントの転換に問題があったので、プラットフォームがGASH ポイントでプラットフォームを購入することを停止しました。\n運営チームがプレイヤー皆様の要求をプラットフォームに強く表明したが、最終決定権はプラットフォームが持っていますご理解のほど、何卒宜しくお願い致します。\n\n現在工口とEROLABSプラットフォームが両方GASHポイントを使用することができかねます。\nHoneyP/ECoinを購入したい方はほかの方法で購入してください。\n\n<b>いつも天下布魔をご愛顧いただきありがとうございます。今後もより良いゲーム体験を提供するように努力してまいります。</b></size>"
+        },
+        {
+          "Time": "02.03",
+          "BookMark": "通知",
+          "Title": "2/3 天下布魔更新終了のお知らせ",
+          "Info": "<size=40><b>親愛なる魔王様：</b>\n《天下布魔》の更新が終了しました！\n新Verのアップデートをして最新コンテンツをお楽しみください\n新Verダウンロードの前に、アカウントの連携もお忘れなく！\n\n<color=#ff0000>♥アップデート♥</color>\n1.EROLABSバージョン言語設定に韓国語を追加\n2.ギルドミッションクリア通知を追加\n3.一部の細かなエラーを修正、最適化\n<color=#ff0000>♥更新内容♥</color>\n1.バレンタインデー限定イベントと関連ミッションを追加：\n－外伝：超時空アイドルーモノクロのノエル✰\nsize=35>（02/03 13:00～02/24 11:00(日本時間）</size>\n－魔界アイドル大騒動\n<size=35>（02/08 13:00～02/24 11:00(日本時間)）</size>\n－期間限定チャレンジステージ：天下一アイドル大会\n<size=35>（02/17 13:00～02/24 11:00(日本時間)）\n2.期間限定キャラクター追加－\n「アイドルモノクロのノエル」\n「アイドルイブリース」\n3.「アイドルモノクロのノエル」&「アイドルイブリース」ダブルPickUpガチャ追加\n<size=35>（期間：02/03 17:00～02/24 13:00(日本時間)）</size>\n<size=35><color=#ff0000>※「アイドルイブリース」は限定イベントでスコアを溜めると獲得できます</color></size>\n4.バレンタインデースペシャルログイン報酬追加：\n－外伝：超時空アイドルーモノクロのノエル✰\n<size=35>\n<size=35>（報酬受取期間：02/03 06:00～02/25 05:59(日本時間)）</size>\n－魔界アイドル大騒動\n（報酬受取期間：02/08 06:00～02/25 05:59(日本時間)）\n5.ストアに「アイドルモノクロのノエル」期間限定ギフト\n<size=35>（販売期間： 更新後～03/03 00:59(日本時間)）</size>>\n\n《天下布魔》への応援ありがとうございます！</size>"
+        },
+        {
           "Time": "01.20",
           "BookMark": "配信開始",
           "Title": "EROLABS配信開始",
           "Info": "<size=40><b>親愛なる魔王様：</b>\n多言語に対応したEROLABSバージョン<color=#ff0000>1.1.0</color>が本日配信されました(^ρ^)/\n世界各地の魔王様をお待ちしております！\n世界を魔王様の色に染め上げましょう\n(•̀ω•́)ノ\n\n－多言語版がErolabsにてリリース：\nAndroid版とiOS版にて中英日の3言語を追加\n－エロ.R18Ver.とEROLABSVer.は同サーバーを使用しますが、プラットフォームが異なるためアカウントは共用できません。\n－期間限定「グローバルリリースギフト」\n－イベントステージ登場：攻略 魔獄塔\n\n<color=#FF0080>『Patreon定期的に支援して様々な優待サービスを受けましょう！』</color>\n\n《天下布魔》への応援ありがとうございます！</size>"
         }
-
+      ]
+    },
+    {
+      "language": "4",
+      "news": [
+        {
+          "Time": "02.04",
+          "BookMark": "Notification",
+          "Title": "iOS version is now available! Only on EROLABS!",
+          "Info": "<size=40><b>Almighty Archdemons,</b>\nthe long-waited iOS version is now available on <color=#ff0000>EROLABS</color>!\nArchdemons may now go to EROLABS or the official website of Tenkafu MA to download the iOS version.\nPlease also note that EROLABS and 工口.R18 are different version and the account system is separate!\n\n♥<a href=https://www.erolabs.com/game.html?id=1>EROLABS</a>\n\n<b>TenkafuMA thanks you for your love and support!</b></size>"
+        },
+        {
+          "Time": "02.03",
+          "BookMark": "알림",
+          "Title": "알림",
+          "Info": "<size=40><b>친애하는 마왕님:</b>\n저희는 오늘 일부 플레이어님들께서 GASH 포인트를 통해 工口/EROLABS 플랫폼에서 HoneyP/ECoin를 정상적으로 교환할 수 없다는 문제를 제보받았습니다.\n저희는 현재 플랫폼에 연락을 취해 조속한 상황 파악을 진행하였습니다.\n해당 플랫폼은 GASH 포인트의 전환 오류로 인해 현재 GASH 포인트의 플랫폼 포인트 전환 기능을 지원하지 않는 것으로 확인되었습니다.\n제작진은 플레이어님들의 불편을 플랫폼에 전달하였으나 안타깝게도 관련 사안의 최종 결정권은 플랫폼에 있습니다.\n현재 GASH 포인트는 工口/EROLABS에선 이용이 불가한 점 다시 한번 양해 부탁드립니다.\n만일 HoneyP/ECoin의 구매를 원하시는 경우 다른 결제 수단의 이용이 필요할 수 있습니다.\n\n<b>텐카푸마에 대한 플레이어님의 지원에 감사드립니다. 저희는 가능한 한 플레이어 여러분께 최선의 게임 경험을 전달해드릴 수 있도록 최선을 다하겠습니다.</b></size>"
+        },
+        {
+          "Time": "02.03",
+          "BookMark": "알림",
+          "Title": "2/3 텐카푸마 업데이트 완료 공지",
+          "Info": "<size=40><b>친애하는 마왕님:</b>\n[텐카푸마]가 업데이트를 마쳤습니다!\n이제 마왕님께서는 신규 버전을 다시 설치하시면 최신 게임 콘텐츠를 플레이하실 수 있습니다.\n신규 버전 다운로드 전, 먼저 계정 연동 하는 것을 잊지 마세요!\n\n<color=#ff0000>♥ 신규 버전 내용 ♥</color>\n1.EROLABS 버전 언어 설정에 한국어 추가\n2.길드 미션 완료 알림 추가\n3.일부 미세한 오류 수정 및 최적화\n\n<color=#ff0000>♥ 업데이트 내용 ♥</color>\n1. 발렌타인데이 기간한정 이벤트 및 관련 미션\n- 스핀오프: 시공간을 초월한 아이돌 - 블랙앤화이트 노엘리✰ \n<size=35>(02/03 업데이트 이후~02/24 11:00 (한국 시간) )</size>\n- 마계 아이돌 대소동\n<size=35> (02/08 13:00~02/04 11:00 (한국 시간) )</size>\n- 기간 한정 도전 스테이지: 천하제일 아이돌 대회\n<size=35> (02/17 13:00~02/24 11:00 (한국 시간) )</size>\n2. 기간 한정 캐릭터 신규 추가 - 아이돌．블랙앤화이트 노엘리, 아이돌．이블리스\n3. 아이돌．블랙앤화이트 노엘리, 아이돌．이블리스 더블 Pick Up 지정 소환 신규 추가\n <size=35>(02/03 17:00～02/24 13:00 (한국 시간) )</size>\n<size=35><color=#ff0000>※아이돌．이블리스 는 기간 한정 이벤트 에서 포인트 누적을 통해 획득할 수 있습니다.</color></size>\n4. 발렌타인데이 특별 로그인 보상 신규 추가:\n- 스핀오프: 시공간을 초월한 아이돌 - 블랙앤화이트 노엘리✰ \n<size=35>(02/03 06:00~02/25 05:59 (한국 시간) )</size>\n- 마계 아이돌 대소동 \n<size=35>(02/08 06:00~02/25 05:59 (한국 시간) )</size>\n5. 상점에 아이돌．블랙앤화이트 노엘리 기간 한정 기프트 팩이 추가되었습니다. \n<size=35>(02/03 업데이트 이 ~03/03 00:59 (한국 시간) )</size>\n\n저희《텐카푸마》에 보내주시는 사랑과 성원에 감사드립니다. 즐거운 게임 플레이 되시기 바랍니다!</size>"
+        }
       ]
     }
   ]
